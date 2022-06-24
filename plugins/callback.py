@@ -59,10 +59,10 @@ async def about_cb(c, m):
 
 #**⚜ Mʏ ɴᴀᴍᴇ : FɪʟᴇSᴛᴏʀᴇBᴏᴛ**\n
 #**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`\n
-#**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)\n
-#**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)\n
-#**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)\n
-#**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 11-ᴊᴜʟʏ-21 ] 04:35 PM](https://telegram.me/AvishkarPatil)
+#**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/MutyalaHarshith/FileStoreBoT)\n
+#**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://github.com/MutyalaHarshith)\n
+#**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Mutyala Harshith](https://telegram.me/MutyalaHarshith)\n
+#**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 24-JuNE-22 ] 04:35 PM](https://telegram.me/MHGcHaT)
 #"""
 
     about_text = f"""--**🍺 Mʏ Dᴇᴛᴀɪʟs:**--
@@ -71,13 +71,13 @@ async def about_cb(c, m):
 │
 ├**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`
 │
-├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)
+├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/MutyalaHarshith/FileStoreBot)
 │
-├**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)
+├**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://github.com/MutyalaHarshith)
 │
-├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)
+├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Mutyala Harshith](https://telegram.me/MutyalaHarshith)
 │
-├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/AvishkarPatil)
+├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 24-ᴊᴜNE-22 ]](https://telegram.me/MHGcHaT)
 │
 ╰─────────[ 😎 ]────────⍟
 """  
