@@ -1,39 +1,3 @@
-<h1 align="center">FileStoreBot</h1>
-<p align="center">
-  
-  <p align="center">
-    <i>A Telegram bot Store All Files and Give Permanant Sharable Link Supported in Priavte and Publicly</i>
-    <br />
-   </strong></a>
-    <br />
-    <a href="https://github.com/Avipatilpro/FileStoreBot/issues"><b>Report a Bug</b></a>
-    |
-    <a href="https://github.com/Avipatilpro/FileStoreBot/issues"><b>Request Feature</b></a>
-  </p>
-</p>
-
-
-<p align="center">
-    <a href="https://github.com/Avipatilpro/FileStoreBot">
-        <img src="https://i.ibb.co/R2cswyL/folder.png" height="80" width="80" alt="FileStoreBot Logo">
-    </a>
-</p><b>
-
-
-
-### 🍁 Features :
-
-- In PM Just Forward or Send any file it will save on Database & give you the Access Link.
-- In Channel Add Bot as Admin with Edit Rights. When you will send any file or media in Channel it will Edit message and add url button
-- You can also Do Force Sub to a Channel to allow access the Bot.
-- Bot Used in Private also using Auth Users and Channels
-
-<br>
-
-#### Demo Bot:  
-<a href="https://telegram.me/FxStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
-
-
 ## Heroky Deploy :
 _Press the button Deploy to heroku and give the values for the config vars. 👇_
 
@@ -42,14 +6,6 @@ _Press the button Deploy to heroku and give the values for the config vars. 👇
 
 ## VPS Deploy : 
 
-```py
-git clone https://github.com/avipatilpro/FileStoreBot
-cd FileStoreBot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 bot.py
-```
-<br>
   
 ### Configs :
 
@@ -89,8 +45,4 @@ batch - send media , files in batch mode
 mode - checkout the mode (^_^)
 
 ```
-  
-<br>
-<h5 align='center'>© 2021 Aνιѕнкαя Pαтιℓ</h5>
-
-
+ 
